@@ -4,51 +4,67 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome Tabular Foundation Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/gcskoenig/awesome-tabular-foundation-models/actions/workflows/lint.yaml/badge.svg)](https://github.com/gcskoenig/awesome-tabular-foundation-models/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A curated collection of research on tabular foundation models: models pretrained on large-scale (synthetic) data that generalize to unseen tabular tasks at inference time. 
 
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="" />
 </a>
-
-<!-- description -->
-
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
-
 </div>
 
 <!-- TOC -->
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Tabular Foundation Models](#tabular-foundation-models)
+- [Theory](#theory)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Important Foundation Models
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [TabPFN: A transformer that solves small tabular classification problems in a second](https://arxiv.org/pdf/2207.01848) - The original TabPFN paper. 
+- [TabPFNv2](https://apple.com) - 
+- [TabPFNv2.5]() - Apple as a placeholder.
+- [TabICL](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Theory
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [original paper showing the prior part](https://www.microsoft.com/) - Microsoft as an example.
+- [nagler paper?](https://www.microsoft.com/) - Microsoft as an example.
 
 <!-- END CONTENT -->
 
-## Follow
+## Prior Design
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+In addition to the foundation model papers:
 
-Who else should we be following!?
+- [one dataset many tasks paper](https://www.microsoft.com/) - Microsoft as an example.
+
+## Interpretable Models
+
+- [MotherNet](https://apple.com) - Apple as a placeholder.
+- [GAMformer](https://apple.com) - Apple as a placeholder.
+
+## Causal Inference and Discovery
+
+- [dopfn](https://apple.com) - Apple as a placeholder.
+- [dopfnv2](https://apple.com) - Apple as a placeholder.
+- [causalpfn](https://apple.com) - Apple as a placeholder.
+- [causalnetoderso](https://apple.com) - Apple as a placeholder.
+
+## Awesome Applications
+
+
+## Educational
+
+- [NanoTabPFN](https://apple.com) - Apple as a placeholder.
+- [NanoTabICL](https://apple.com) - Apple as a placeholder.
 
 ## Contributing
 
@@ -56,4 +72,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/gcskoenig/awesome-tabular-foundation-models/graphs/contributors)!
