@@ -84,6 +84,8 @@ Related to interpretability. Anything else?
 
 ## Benchmarks and Evaluation
 
+- **TabArena: A Living Benchmark for Machine Learning on Tabular Data** (2025), N. Erickson et al. [[pdf]](https://arxiv.org/abs/2506.16791) [[website]](https://tabarena.ai) - A collaborative, living benchmark platform for evaluating tabular foundation models.
+
 ## Software and Libraries
 
 ## Educational
