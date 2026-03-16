@@ -14,9 +14,8 @@ A curated collection of **research papers** on **tabular foundation models**: mo
 > This list is currently a **work in progress**. A complete v1 will follow shortly.
 
 <!-- image -->
-
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="tfm-ppd-formula-annotated.png" width="400" />
 </a>
 </div>
 
