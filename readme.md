@@ -61,11 +61,16 @@ A curated collection of **research papers** on **tabular foundation models**: mo
 In addition to the foundation model papers:
 
 - **Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure** (2026), D. Tugnoli et al. [[pdf]](https://arxiv.org/abs/2603.10254) - Proposes DAG-aware conditioning to align TabPFN's autoregressive generation with causal structure, reducing spurious correlations.
+- **TabForestPFN** (2024), F. den Breejen et al. [[pdf]](https://arxiv.org/abs/2405.13396) - Uses forest-based synthetic data generation for complex decision boundaries.
+ 
 
 ## Interpretability
 
 - **MotherNet: Fast Training and Inference via Hyper-Network Transformers** (2023), A. Müller, C. Curino, and R. Ramakrishnan. [[pdf]](https://arxiv.org/abs/2312.08598) - Generates the weights of a compact child neural network in a single forward pass, enabling fast inference without in-context overhead.
 - **GAMformer: In-Context Learning for Generalized Additive Models** (2024), A. Mueller et al. [[pdf]](https://arxiv.org/abs/2410.04560) - Estimates interpretable GAM shape functions in a single forward pass, bridging foundation models and interpretable ML.
+- **Interpretable Machine Learning for TabPFN** (2024), D. Rundel et al. [[pdf]](https://arxiv.org/abs/2403.10923) - Adapts post-hoc IML methods such as feature effects, Shapley values, and data valuation to TabPFN, leveraging in-context learning to avoid costly retraining.
+- **TabPFN Through The Looking Glass: An Interpretability Study of TabPFN** (2026), A. Gupta et al. [[pdf]](https://arxiv.org/abs/2601.08181) - A mechanistic interpretability study probing TabPFN's internal representations to understand what the model learns across layers.
+
 
 ## Causal Inference
 
